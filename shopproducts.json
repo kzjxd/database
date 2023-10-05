@@ -1,74 +1,73 @@
-[
-  {
-    "name" : "baked beans",
-    "price" : 0.40,
-    "image" : "beans.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "hot dogs",
-    "price" : 1.99,
-    "image" : "hotdogs.jpg",
-    "type" : "meat"
-  },
-  {
-    "name" : "spam",
-    "price" : 2.85,
-    "image" : "spam.jpg",
-    "type" : "meat"
-  },
-  {
-    "name" : "refried beans",
-    "price" : 0.99,
-    "image" : "refried.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "kidney beans",
-    "price" : 0.58,
-    "image" : "kidney.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "garden peas",
-    "price" : 0.52,
-    "image" : "gardenpeas.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "mushy peas",
-    "price" : 0.58,
-    "image" : "mushypeas.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "corned beef",
-    "price" : 2.39,
-    "image" : "cornedbeef.jpg",
-    "type" : "meat"
-  },
-  {
-    "name" : "tomato soup",
-    "price" : 1.40,
-    "image" : "tomatosoup.jpg",
-    "type" : "soup"
-  },
-  {
-    "name" : "chopped tomatoes",
-    "price" : 0.45,
-    "image" : "tomato.jpg",
-    "type" : "vegetables"
-  },
-  {
-    "name" : "chicken noodle soup",
-    "price" : 1.89,
-    "image" : "chickennoodle.jpg",
-    "type" : "soup"
-  },
-  {
-    "name" : "carrot and coriander soup",
-    "price" : 1.49,
-    "image" : "carrotcoriander.jpg",
-    "type" : "soup"
-  }
+[{
+	"name": "胡萝卜",
+	"price": 3.2,
+	"type": "vegetables",
+	"images": "huluobo.jpg"
+},
+{
+	"name": "白菜",
+	"price": 2.2,
+	"type": "vegetables",
+	"images": "baicai.jpg"
+},
+{
+	"name": "火腿肠",
+	"price": 5.2,
+	"type": "meat",
+	"images": "huotuichang.jpg"
+},
+{
+	"name": "花菜",
+	"price": 6.2,
+	"type": "vegetables",
+	"images": "huacai.jpg"
+},
+{
+	"name": "猪肉",
+	"price": 46,
+	"type": "meat",
+	"images": "zhurou.jpg"
+},
+{
+	"name": "可乐",
+	"price": 3.2,
+	"type": "drink",
+	"images": "kele.jpg"
+},
+{
+	"name": "牛肉",
+	"price": 64,
+	"type": "meat",
+	"images": "niurou.jpg"
+},
+{
+	"name": "矿泉水",
+	"price": 2,
+	"type": "drink",
+	"images": "shui.jpg"
+},
+{
+	"name": "南瓜",
+	"price": 1.8,
+	"type": "vegetables",
+	"images": "nangua.jpg"
+},
+{
+	"name": "西红柿",
+	"price": 5.2,
+	"type": "vegetables",
+	"images": "xihongshi.jpg"
+},
+{
+	"name": "空心菜",
+	"price": 2.8,
+	"type": "vegetables",
+	"images": "kongxincai.jpg"
+},
+{
+	"name": "饼干",
+	"price": 16.2,
+	"type": "snake",
+	"images": "binggan.jpg"
+}
 ]
