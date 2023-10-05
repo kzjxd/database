@@ -1,3 +1,3 @@
 # database
 data
-超市商品
+shopprodect.json:超市商品
